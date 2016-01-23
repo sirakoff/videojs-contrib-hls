@@ -40,4 +40,4 @@
   };
 
   window.videojs.Hls.utils = module;
-})(this);
+})(window);
